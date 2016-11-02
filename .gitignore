@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+build/
+pom.xml
+target/
+src/main/resources/
+src/main/webapp/META-INF/
+src/main/webapp/WEB-INF/jdbc.properties
+src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml
+src/main/webapp/WEB-INF/security-context.xml
+src/main/webapp/WEB-INF/web.xml
