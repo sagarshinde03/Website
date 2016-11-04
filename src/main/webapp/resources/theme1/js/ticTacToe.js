@@ -7,7 +7,7 @@ $(document).ready(function($) {
 		data = $("#form-ticTacToe").serializeArray();
 		disabled.attr('disabled','disabled');
 		$.ajax({
-		    url : '/Website/home/ticTacToe/nextMove',
+		    url : '/home/ticTacToe/nextMove',
 		    type : 'POST',
 		    data: data,
 		    success : function(data) {
