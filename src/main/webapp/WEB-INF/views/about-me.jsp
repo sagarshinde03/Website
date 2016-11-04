@@ -28,7 +28,7 @@
 				<li><a href="#four">Computer Skills</a></li>
 				<li><a href="#five">Independent Projects</a></li>
 				<li><a href="#six">Academic Projects</a></li>
-				<li><a href="#seven">Test Scores/Publications</a></li>
+				<li><a href="#seven">Test Scores</a></li>
                 <li><a href="#eight">Hobbies</a></li>
 			</ul>
 		</nav>
@@ -79,7 +79,7 @@
 						<article>
 							<div class="inner">
 								<h3>Tata Consultancy Services, Mumbai, India</h3>
-								<p align="right">Sep 2011-Jul 2014</p>
+								<p align="right">Sep 2011 - Jul 2014</p>
 								<p>Developed deposit and loan modules of TCS BaNCS, a software product for banks. Functionalities under deposit
 module enabled the system to deposit and withdraw money from banking account of the customer and functionalities under loan
 module helped bank managers decide loan amount to be granted based on background of the customer.</p>
@@ -90,6 +90,18 @@ the results from the database by 10-15% which enabled tellers to fetch data quic
 								<br>Awarded 'TCS Gem', an appreciation token by TCS (Tata Consultancy Services), Apr 2013.
 								<br>Awarded 'On the Spot Award' for learning technologies quickly and improving coding skills, Apr 2013.
 								<br>Awarded 'Certificate of Recognition' for contribution towards TCS BaNCS implementation, Jan 2014.
+								</p>
+							</div>
+						</article>
+						<article>
+							<div class="inner">
+								<h3>Wayfair, Boston, USA</h3>
+								<p align="right">Apr 2016 - Present</p>
+								<p>Developed Pixel Management System for advertisement of recently seen items on Wayfair's website by a customer.</p>
+								<p>Built the functionality for browsing rugs using visual search backend. User could enter the URL of the image 
+								and similar rugs result is shown to him and implemented filter functionality for rugs browsing.</p>
+								<p><font style="font-weight: bold;">Achievements at workplace</font>
+								<br>Recognized as 'Solution Superstar' for building Pixel Management System, Aug 2016.
 								</p>
 							</div>
 						</article>
@@ -125,9 +137,9 @@ the results from the database by 10-15% which enabled tellers to fetch data quic
 							<div class="inner">
 								<p><font style="font-weight: bold;">Programming Languages: </font>Java, Javascript
 								<br><font style="font-weight: bold;">Databases: </font>MS SQL Server, MySQL, Oracle
-								<br><font style="font-weight: bold;">Web Technologies: </font>HTML, XML, CSS, JSON, REST, XSLT
+								<br><font style="font-weight: bold;">Web Technologies: </font>HTML, CSS, JSON, REST, XSLT
 								<br><font style="font-weight: bold;">Frameworks: </font>Spring, Hibernate, JDBC, J2EE
-								<br><font style="font-weight: bold;">Other Technologies: </font>Hadoop, Tomcat, JUnit</p>
+								<br><font style="font-weight: bold;">Other Technologies: </font>AWS, Hadoop, Tomcat, JUnit</p>
 							</div>
 						</article>
 					</div>
@@ -143,7 +155,18 @@ the results from the database by 10-15% which enabled tellers to fetch data quic
 					<div class="features">
 						<article>
 							<div class="inner">
-								
+								<p>Developed Infrastructure as a Service 
+								(<a style="font-weight: bold;" target="_blank" href="https://en.wikipedia.org/wiki/Infrastructure_as_a_service">IaaS</a>) 
+								based web application using <a style="font-weight: bold;" target="_blank" href="https://en.wikipedia.org/wiki/Spring_Framework">Spring</a>, 
+								<a style="font-weight: bold;" target="_blank" href="https://en.wikipedia.org/wiki/Hibernate_(framework)">Hibernate</a> and 
+								<a style="font-weight: bold;" target="_blank" href="https://en.wikipedia.org/wiki/Apache_Tomcat">Tomcat</a> and hosted the application on 
+								<a style="font-weight: bold;" target="_blank" href="https://en.wikipedia.org/wiki/Amazon_Web_Services">AWS</a>.
+								<br>A user has to create an account on the website and he/she can then play games like Tic-Tac-Toe and check how many games were won/lost/tied.
+								<br>Used <a style="font-weight: bold;" target="_blank" href="https://en.wikipedia.org/wiki/Spring_Security">Spring Security</a> 
+								for user's account authentication, authorization and other security features and <a style="font-weight: bold;" target="_blank" href="https://en.wikipedia.org/wiki/MySQL">MySQL</a> for database.
+								<br>The application is available at <a target="_blank" href="http://sagarshinde.q3cqfmwecu.us-west-2.elasticbeanstalk.com">http://sagarshinde.q3cqfmwecu.us-west-2.elasticbeanstalk.com</a>
+								<br>Github code is available at <a target="_blank" href="https://github.com/sagarshinde03/Website">https://github.com/sagarshinde03/Website</a>
+								</p>
 							</div>
 						</article>
 					</div>
@@ -159,7 +182,44 @@ the results from the database by 10-15% which enabled tellers to fetch data quic
 					<div class="features">
 						<article>
 							<div class="inner">
-								
+								<h3>Data Warehouse System</h3>
+								<p>Implemented a data warehouse for clinical data using Oracle database system.
+								</p><p>Created UI for accepting queries and displaying results dynamically and improved query retrieval efficiency.
+								</p>
+							</div>
+						</article>
+						<article>
+							<div class="inner">
+								<h3>Clustering Algorithms - Data Mining</h3>
+								<p>Implemented Hierarchical Agglomerative Clustering and Density based clustering algorithms to find clusters of similar genes.
+								</p><p>Compared the performances of these algorithms using PCA for visualization and Correlation.
+								</p>
+							</div>
+						</article>
+						<article>
+							<div class="inner">
+								<h3>FIFO Ordered Group Messenger with Dynamo-style Replicated Data Storage - Distributed Systems</h3>
+								<p>Implemented ISI algorithm to develop messenger which sends text messages in a group of Android Virtual Devices (AVDs).
+								</p><p>Developed consistent hashing, key-value storage and linearizability (using vector clocks) over five Android devices.
+								</p><p>Maintained Total and FIFO order of messages and handled AVD failures using replicated data storage.
+								</p><p>Implemented persistent key-value pair Table using Content Providers to store the messages.
+								</p>
+							</div>
+						</article>
+						<article>
+							<div class="inner">
+								<h3>Search Engine using Apache Solr</h3>
+								<p>Parsed more than 40,000 Wikipedia documents using SAX parser written in Java.
+								</p><p>Built a web application with Apache Solr as search platform and implemented Solr features such as prioritizing search and result categorization, faceted search, spatial search and similar pages using MoreLikeThis.
+								</p>
+							</div>
+						</article>
+						<article>
+							<div class="inner">
+								<h3>Listing of NASDAQ stocks by their volatility using Hadoop Mapreduce technology</h3>
+								<p>Listed stocks by their volatility from given 36 months of monthly data for 30,000 stocks running the computations in parallel over a cluster of nodes using Mapreduce, Pig and Hive programming paradigm.
+								</p><p>Evaluated scalability of implementation on different data sizes and different number of nodes.
+								</p>
 							</div>
 						</article>
 					</div>
