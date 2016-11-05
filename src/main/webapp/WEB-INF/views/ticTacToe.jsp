@@ -48,7 +48,7 @@
 					<div style="left:20%; width:10%; display:inline-block">
 						<select name="difficulty" class="form-control">
 						  <option value="easy">Easy</option>
-						  <option value="hard">Medium</option>
+						  <option disabled value="hard">Medium</option>
 						  <option disabled value="hard">Hard</option>
 						</select>
 					</div>

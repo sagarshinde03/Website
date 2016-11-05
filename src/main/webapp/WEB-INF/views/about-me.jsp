@@ -164,7 +164,7 @@ the results from the database by 10-15% which enabled tellers to fetch data quic
 								<br>A user has to create an account on the website and he/she can then play games like Tic-Tac-Toe and check how many games were won/lost/tied.
 								<br>Used <a style="font-weight: bold;" target="_blank" href="https://en.wikipedia.org/wiki/Spring_Security">Spring Security</a> 
 								for user's account authentication, authorization and other security features and <a style="font-weight: bold;" target="_blank" href="https://en.wikipedia.org/wiki/MySQL">MySQL</a> for database.
-								<br>Used md5 hashing for password encoding.
+								<br>Handled password encoding with md5 hashing.
 								<br>The application is available at <a target="_blank" href="http://sagarshinde.q3cqfmwecu.us-west-2.elasticbeanstalk.com">http://sagarshinde.q3cqfmwecu.us-west-2.elasticbeanstalk.com</a>
 								<br>Github code is available at <a target="_blank" href="https://github.com/sagarshinde03/Website">https://github.com/sagarshinde03/Website</a>
 								</p>
