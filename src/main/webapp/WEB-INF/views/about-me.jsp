@@ -238,6 +238,7 @@ the results from the database by 10-15% which enabled tellers to fetch data quic
 							<div class="inner">
 								<p>Scored 170/170 (better than 98% of all test writers) in GRE's Quantitative Ability Section, Oct 2013.</p>
 								<p>Scored 98.11 percentile in Common Admission Test (CAT) of India, Jan 2014.</p>
+								<p>Scored 180/200 in Engineering Entrance examination of the state, Jun 2007.</p>
 							</div>
 						</article>
 					</div>
